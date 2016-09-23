@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  AFHTTPSessionManager+FEOnce.h
 //  neitui
 //
 //  Created by hzf on 16/8/15.
 //  Copyright © 2016年 neitui. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <AFNetworking/AFNetworking.h>
 
-@interface ViewController : UIViewController
-
+@interface AFHTTPSessionManager (FEOnce)
 
 @end
-
